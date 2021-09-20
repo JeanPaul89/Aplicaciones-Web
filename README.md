@@ -6,3 +6,5 @@ Curso 2021-2022
 **Abraham Lincoln** said:
 
 >Four score and seven years old
+
+~~tachado~~
