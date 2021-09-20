@@ -27,3 +27,25 @@ Este sitio se construyó usando [Google](https://www.google.com/?hl=ca) es: [goo
 Emojis :+1: :shipit: :trollface: :snake:
 
 :globe_with_meridians: :money_with_wings::money_with_wings: :pound:
+
+
+
+
+| :one:       | :two:       | :three:     |
+|:---         |   :----:    |         ---:|
+| Primero 1   | Segundo 1   | Tercero 1   |
+| Primero 2   | Segundo 2   | Tercero 2   |
+| Primero 3   | Segundo 3   | Tercero 3   |
+
+
+
+
+
+
+
+
+
+
+
+
+
